@@ -45,8 +45,8 @@
 
 ### 📫 Connect With Me
 
-- 📧 Email: vishalyadav@example.com *(update this)*
-- 🔗 LinkedIn: [linkedin.com/in/vishal-yadav](https://www.linkedin.com/)
+- 📧 Email: 
+- 🔗 LinkedIn: 
 - 🖥️ Portfolio: Coming soon...
 
 ---
